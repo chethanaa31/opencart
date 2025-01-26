@@ -1,0 +1,363 @@
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\002PW0744\AppData\Local\Temp\testng-eclipse-33965826\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[TestNG] Time taken by org.testng.reporters.jq.Main@1bf39d06: 47 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@6f4ade6e: 10 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@2f98635e: 7 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@2324bfe7: 9 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@213bd3d5: 8 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@470a659f: 1 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\002PW0744\AppData\Local\Temp\testng-eclipse-1377185533\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[TestNG] Time taken by org.testng.reporters.jq.Main@1bf39d06: 46 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@6f4ade6e: 10 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@2f98635e: 9 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@2324bfe7: 6 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@213bd3d5: 6 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@470a659f: 1 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\002PW0744\AppData\Local\Temp\testng-eclipse-2085167837\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+**** Starting TC001_AccountRegistrationTest ****
+Test Failed
+[TestNG] Time taken by org.testng.reporters.jq.Main@37ed010a: 61 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@2f651f93: 11 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@2a03d65c: 13 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@55a609dd: 10 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@28f878a0: 14 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@20411320: 0 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\002PW0744\AppData\Local\Temp\testng-eclipse-912330596\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+[TestNG] Time taken by org.testng.reporters.jq.Main@35cd68d4: 95 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@316a598d: 0 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@d8d9199: 17 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@199bc830: 10 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e15bb06: 0 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@6778aea6: 0 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\002PW0744\AppData\Local\Temp\testng-eclipse--1779534697\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[TestNG] Time taken by org.testng.reporters.jq.Main@1bf39d06: 42 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@6f4ade6e: 8 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@2f98635e: 6 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@2324bfe7: 5 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@213bd3d5: 5 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@470a659f: 0 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\002PW0744\AppData\Local\Temp\testng-eclipse-1073439694\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+[TestNG] Time taken by org.testng.reporters.jq.Main@35cd68d4: 85 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@316a598d: 0 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@d8d9199: 10 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@199bc830: 6 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e15bb06: 0 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@6778aea6: 0 ms
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\crossbrowsertesting.xml
+
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+*** Starting TC002_LoginTest ***
+*** Finishing TC002_LoginTest ***
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\grouping.xml
+
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\grouping.xml
+
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+*** Starting TC002_LoginTest ***
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\grouping.xml
+
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+*** Starting TC002_LoginTest ***
+*** Finishing TC002_LoginTest ***
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\grouping.xml
+
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+*** Starting TC002_LoginTest ***
+*** Finishing TC002_LoginTest ***
+[TestNG] Running:
+  C:\Users\002PW0744\eclipse1\opencart\master.xml
+
+**** Starting TC001_AccountRegistrationTest ****
+Clicked on My account link.
+Clicked on Register link.
+Providing customer details.
+Validating expected message.
+**** Finished TC001_AccountRegistrationTest ****
